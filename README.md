@@ -41,24 +41,31 @@ Based on your repo structure and common practices:
 ## 3️⃣ **Folder Structure (typical)**
 
 ```
-financial-dashboard/
-├── src/
-│   ├── controllers/
-│   │   ├── authController.ts
-│   │   ├── transactionController.ts
-│   ├── models/
-│   │   ├── User.ts
-│   │   ├── Transaction.ts
-│   ├── routes/
-│   │   ├── authRoutes.ts
-│   │   ├── transactionRoutes.ts
-│   ├── utils/
-│   │   ├── generateToken.ts
-│   │   ├── db.ts
-│   ├── app.ts
+FINANCIAL-DASHBOARD/
+├── Financial-Dashboard/
+├── hooks/
+├── lib/
+├── node_modules/
+├── public/
+├── scripts/
+├── styles/
+├── .env.local
+├── .gitattributes
+├── .gitignore
+├── components.json
+├── eslint.config.js
+├── jest.config.js
+├── jest.setup.js
+├── next-env.d.ts
+├── next.config.mjs
+├── next.config.ts
+├── package-lock.json
 ├── package.json
-├── tsconfig.json
-```
+├── pnpm-lock.yaml
+├── postcss.config.mjs
+├── README.md
+├── tailwind.config.ts
+└── tsconfig.json
 
 ---
 
