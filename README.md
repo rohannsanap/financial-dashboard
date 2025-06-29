@@ -84,7 +84,7 @@ financial-dashboard/
 * Transactions can be categorized (Food, Travel, Bills, etc.).
 * Helps in filtering and grouping expenses.
 
-✅ **Data Visualization (optional/next step)**
+✅ **Data Visualization **
 
 * Generate graphs:
 
