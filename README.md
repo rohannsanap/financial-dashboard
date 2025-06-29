@@ -126,10 +126,15 @@ financial-dashboard/
 ## 7️⃣ **Next Steps to Improve**
 
 ✅ Add proper error handling and response messages.
+
 ✅ Integrate advanced filtering and sorting on the backend.
+
 ✅ Add pagination for transaction fetching.
+
 ✅ Use environment variables for JWT secret and MongoDB URI.
+
 ✅ Add unit and integration tests using Jest.
+
 ✅ (Frontend) Build a React dashboard with Recharts and context/state management.
 
 ---
