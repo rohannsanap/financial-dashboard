@@ -140,12 +140,4 @@ financial-dashboard/
 * Can use for your **portfolio** and **internship projects**.
 * Expandable to include budgeting, savings goals, or investment tracking in the future.
 
----
 
-If you want:
-✅ **a README draft for this project**
-✅ **feature planning for the next phase**
-✅ **code review for a specific file**
-✅ **deployment strategy (Railway, Vercel, AWS, etc.)**
-
-just let me know, and I will prepare them for you to improve your repository and portfolio readiness.
