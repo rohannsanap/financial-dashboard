@@ -14,7 +14,7 @@ A **Financial Dashboard** that:
 
 * Tracks, analyzes, and visualizes user transactions and expenses.
 * Helps users understand spending patterns.
-* Provides a clean backend API and optionally a frontend for displaying charts and summaries.
+* Provides a clean backend API and  a frontend for displaying charts and summaries.
 
 ---
 
