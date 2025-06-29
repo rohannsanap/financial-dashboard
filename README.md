@@ -32,7 +32,7 @@ Based on your repo structure and common practices:
 
 * **Frontend:**
 
-  * May use React or similar (if included).
+  * Tailwind(CSS)
   * Data visualization libraries (e.g., Chart.js, Recharts) for graphs.
 
 ---
