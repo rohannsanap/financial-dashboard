@@ -28,11 +28,12 @@ Based on your repo structure and common practices:
   * MongoDB (data storage)
   * JWT (authentication)
   * Bcrypt (password hashing)
-  * TypeScript (type safety)
+ 
 
 * **Frontend:**
 
   * Tailwind(CSS)
+  * TypeScript (type safety)
   * Data visualization libraries (e.g., Chart.js, Recharts) for graphs.
 
 ---
